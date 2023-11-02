@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pandya-Meeet
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning React.js and Node.js
-- 💞️ I’m looking to collaborate on Frontend
 - 📫 How to reach me Twitter @pandyameeet
 
 <!---
